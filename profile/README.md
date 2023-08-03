@@ -2,7 +2,9 @@
 
 ### About Us
 
-Welcome to the official GitHub repository of the Teknik Informatika Reguler C 2018 Organization! We are a group of passionate alumni students and developers from the Computer Science Department of Sriwijaya University class of 2018. Our organization is dedicated to creating and contributing to open-source projects that span a wide range of technologies and domains.
+Welcome to the official GitHub repository of the Teknik Informatika Reguler C 2018 Organization! We are a group of passionate alumni students and developers from the Computer Science Department of Sriwijaya University class of 2018. Our organization is dedicated to creating  and contributing to open-source projects that span a wide range of technologies and domains.
+
+<b>!!!DISCLAIMER: We would like to clarify that we are not officially affiliated with Universitas Sriwijaya. We are a group of enthusiastic alumni who have come together to form this organization based on our shared experiences and studies during our time at UNSRI</b>
 
 ### Our Projects
 
