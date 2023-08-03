@@ -1,7 +1,5 @@
 # Teknik Informatika Reguler C 2018 Organization GitHub!
 
-<img src="https://github.com/TI-Regceh-2018/.github/assets/60766389/68b76bdc-2286-483f-bbe0-f198d7956058" alt="Informatika Reguler C 2018" width="100" align="center">
-
 ## About Us
 
 Welcome to the official GitHub repository of the Teknik Informatika Reguler C 2018 Organization! We are a group of passionate alumni students and developers from the Computer Science Department of Sriwijaya University class of 2018. Our organization is dedicated to creating and contributing to open-source projects that span a wide range of technologies and domains.
